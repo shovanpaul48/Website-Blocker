@@ -1,5 +1,5 @@
 # You have to run this code in administrator mode
-# open your py IDE in administrator mode and the run the code
+# open your py IDE in administrator mode and run the code
 import time
 from datetime import datetime as dt
 
